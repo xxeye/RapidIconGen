@@ -24,7 +24,7 @@
 1. **克隆專案**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/xxeye/RapidIconGen.git
    ```
 
 2. **安裝 Pillow**

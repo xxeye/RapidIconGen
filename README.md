@@ -24,7 +24,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/xxeye/RapidIconGen.git
    ```
 
 2. **Install Pillow**
@@ -50,8 +50,6 @@
 ## Project Resources
 
 The project includes two resource folders, "RhythmMirage" and "RhythmMirage_B," for testing and viewing the necessary data structure.
-
-Here is the translation:
 
 
 ==**Notice**==
